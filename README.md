@@ -1,5 +1,5 @@
-# Travel website 2
+# Travel website 
 
 Demo Link- http://127.0.0.1:5500/index.html
 
- Travel website 2 (html,css,javascript)
+ Travel website  (html,css,javascript)
